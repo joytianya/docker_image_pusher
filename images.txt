@@ -2,3 +2,4 @@ python:alpine3.19
 xiaoyaliu/alist
 xiaoyaliu/alist:hostmode
 xiaoyaliu/glue:latest
+foamzou/melody:latest
